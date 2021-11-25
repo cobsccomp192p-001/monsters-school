@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cobsccomp192p-001/monsters-school/static/css/main.c9ac63b4.chunk.css",
-    "main.js": "/cobsccomp192p-001/monsters-school/static/js/main.69dbaa27.chunk.js",
-    "main.js.map": "/cobsccomp192p-001/monsters-school/static/js/main.69dbaa27.chunk.js.map",
-    "runtime-main.js": "/cobsccomp192p-001/monsters-school/static/js/runtime-main.b9fe1ca2.js",
-    "runtime-main.js.map": "/cobsccomp192p-001/monsters-school/static/js/runtime-main.b9fe1ca2.js.map",
-    "static/js/2.403c2f1e.chunk.js": "/cobsccomp192p-001/monsters-school/static/js/2.403c2f1e.chunk.js",
-    "static/js/2.403c2f1e.chunk.js.map": "/cobsccomp192p-001/monsters-school/static/js/2.403c2f1e.chunk.js.map",
-    "static/js/3.817c9385.chunk.js": "/cobsccomp192p-001/monsters-school/static/js/3.817c9385.chunk.js",
-    "static/js/3.817c9385.chunk.js.map": "/cobsccomp192p-001/monsters-school/static/js/3.817c9385.chunk.js.map",
-    "index.html": "/cobsccomp192p-001/monsters-school/index.html",
-    "static/css/main.c9ac63b4.chunk.css.map": "/cobsccomp192p-001/monsters-school/static/css/main.c9ac63b4.chunk.css.map",
-    "static/js/2.403c2f1e.chunk.js.LICENSE.txt": "/cobsccomp192p-001/monsters-school/static/js/2.403c2f1e.chunk.js.LICENSE.txt"
+    "main.css": "/monsters-school/static/css/main.c9ac63b4.chunk.css",
+    "main.js": "/monsters-school/static/js/main.69dbaa27.chunk.js",
+    "main.js.map": "/monsters-school/static/js/main.69dbaa27.chunk.js.map",
+    "runtime-main.js": "/monsters-school/static/js/runtime-main.709377b6.js",
+    "runtime-main.js.map": "/monsters-school/static/js/runtime-main.709377b6.js.map",
+    "static/js/2.403c2f1e.chunk.js": "/monsters-school/static/js/2.403c2f1e.chunk.js",
+    "static/js/2.403c2f1e.chunk.js.map": "/monsters-school/static/js/2.403c2f1e.chunk.js.map",
+    "static/js/3.817c9385.chunk.js": "/monsters-school/static/js/3.817c9385.chunk.js",
+    "static/js/3.817c9385.chunk.js.map": "/monsters-school/static/js/3.817c9385.chunk.js.map",
+    "index.html": "/monsters-school/index.html",
+    "static/css/main.c9ac63b4.chunk.css.map": "/monsters-school/static/css/main.c9ac63b4.chunk.css.map",
+    "static/js/2.403c2f1e.chunk.js.LICENSE.txt": "/monsters-school/static/js/2.403c2f1e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9fe1ca2.js",
+    "static/js/runtime-main.709377b6.js",
     "static/js/2.403c2f1e.chunk.js",
     "static/css/main.c9ac63b4.chunk.css",
     "static/js/main.69dbaa27.chunk.js"
